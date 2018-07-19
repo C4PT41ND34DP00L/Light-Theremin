@@ -1,0 +1,42 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Light_Theremin_REV_A
+*Date=20:48:28
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;16.0856;-29.9434;0;Bottom;Via2
+2;;;7.2446;-29.7435;0;Bottom;TXT1
+3;10k;THT;11.1936;-22.9728;0;Bottom;R1
+4;;;28.1633;-25.3084;0;Bottom;IMG1
+5;;;11.1923;-29.9591;0;Bottom;Via1
+6;;DIP8 [THT];12.7032;-14.4796;-90;Bottom;555
+7;22µF;100 mil [THT, multilayer];13.6024;-3.58662;90;Bottom;C2
+8;;;3.8354;-5.7371;0;Bottom;Copper Fill7
+9;22µF;100 mil [THT, multilayer];7.147;-3.50673;90;Bottom;C3
+10;;;13.7469;-29.7912;0;Bottom;TXT5
+11;100µF;100 mil [THT, electrolytic];24.3151;-14.2785;-90;Bottom;C1
+12;;;10.3886;-3.5527;0;Bottom;Copper Fill2
+13;;THT;1.82306;-15.4086;-90;Bottom;LDR
+14;1M;THT;22.9806;-6.60496;0;Bottom;R3
+15;;;16.3068;-18.5895;0;Bottom;Copper Fill6
+16;;;27.1353;-4.03578;0;Bottom;TXT2
+17;;;10.5664;-5.4323;0;Bottom;Copper Fill8
+18;;;25.1206;-23.8219;0;Bottom;Copper Fill4
+19;;;8.0518;-16.8623;0;Bottom;Copper Fill5
+20;;;20.5921;-29.8608;0;Bottom;TXT1
+21;;;22.6822;-15.7701;0;Bottom;Copper Fill9
+22;;;10.414;-1.3937;0;Bottom;Copper Fill3
+23;;;31.8939;-15.9398;180;Bottom;Speaker
+24;;;17.0688;-15.7701;0;Bottom;Copper Fill1
+25;;;32.9412;-19.1392;0;Bottom;TXT4
+26;;;31.954;-11.6193;0;Bottom;TXT3
+27;;;26.7049;-2.37797;0;Bottom;TXT6
